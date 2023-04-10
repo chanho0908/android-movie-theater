@@ -31,9 +31,3 @@ google-services.json
 
 # Android Profiling
 *.hprof
-
-# Kotlin
-.kotlin
-
-# Mac OS
-.DS_Store
